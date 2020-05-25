@@ -12,6 +12,7 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
+  	<!--Who am I?-->
     <header>
       <section class="wrapper">
         <h1>Jonathan Powell</h1>
@@ -20,8 +21,9 @@
     </header>
 
     <main class="wrapper">
+    	<!--Mugshot-->
       <img src="images/jp.jpg" alt="Jonathan Powell - Mugshot">
-
+			<!--Some boring stuff about me-->
       <h2>Greetings,</h2>
       <p>I'm Jonathan Powell, a software developer who lives in Atlanta, Georgia.</p>
       <p>As a former professional cook and a current creator on IgorMUD, I am interested in:</p>
@@ -33,12 +35,12 @@
       <p>Please have a look at my site and <a href="mailto:rjp121575@yahoo.com">contact me</a> with any questions or comments.</p>
 
       <hr>
-
+			<!--Even more boring stuff about me-->
       <h2>About Me</h2>
       <p>After spending most of my life as a cook, I reached my forties and began looking for a new and more profitable career. Having  8 years of experience coding in LPC, I decided to attend <a href="http://thinkful.com">Thinkful</a> and turn my hobby into a career. I'm now looking forward to collaborating with others on a variety of projects. I enjoy RPG gaming and creating worlds for others to explore.</p>
 
       <hr>
-
+		<!--How to find me in the dark.-->
     <h2>Contact Me</h2>
     <p>Please feel free to contact and follow me.</p>
     <ol>
@@ -51,7 +53,7 @@
     </ol>
       
     </main>
-
+		<!--Don't take my stuff-->
     <footer>
       <div class="wrapper">
         <h3>Copyright Jonathan Powell</h3>
